@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 data
-crc_organoid
+crc_organoid/*txt
+crc_organoid/*csv
